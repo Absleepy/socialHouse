@@ -1,0 +1,36 @@
+.footer{
+    background-color: var(--blue-color);
+    border-top: 1px solid #ddd;
+    padding: 30px 12px;
+    .greyText{
+        color: #9E9E9E;
+        
+    }
+    nav{
+        text-align: center;
+        ul.footerLinks{
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            li{
+                margin: 0 12px;
+                display: inline-block;
+                a{
+                    color: #fff;
+                    font-size: 1rem;
+                    
+                }
+                &:hover{
+                    a{
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+    }
+    #lastInfo {
+        a, span{
+            font-size: .69rem;
+        }
+    }
+}

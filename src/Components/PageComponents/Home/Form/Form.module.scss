@@ -1,0 +1,56 @@
+.container{
+    background-color: var(--blue-color);
+    padding: 40px 12px;
+    h3{
+        padding-top: 20px;
+        font-size: 1.4rem;
+        margin-bottom: 12px;
+    }
+    h5{
+        font-size: 1.2rem;
+        color: #9E9E9E;
+    }
+    form{
+        padding-top: 30px;
+        padding-bottom: 50px;
+        .inpContainer{
+            width: 100%;
+            input{
+                width: 95%;
+                background-color: transparent;
+                border: none;
+                padding-bottom: 4px;
+                font-size: 1.3rem;
+                color: #fff;
+                border-bottom: 1px solid;
+                &:focus{
+                    outline: none;
+                }
+            }
+        }
+        .check{
+            margin-right: 15px;
+            height: 20px;
+            width: 20px;
+        }
+        button{
+            width: 100%;
+            margin: 0 auto;
+            display: block;
+            min-width: 240px;
+        }
+    }
+    .greyText{
+        color: #9E9E9E;
+        
+    }
+}
+
+
+
+@media (min-width: 768px) {
+    .content{
+        width: 60%;
+        margin: 0 auto;
+    }
+}
