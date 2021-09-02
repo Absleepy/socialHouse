@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/socialHouse/static/css/main.36b9f9f8.chunk.css",
+    "main.js": "/socialHouse/static/js/main.53453ba2.chunk.js",
+    "main.js.map": "/socialHouse/static/js/main.53453ba2.chunk.js.map",
+    "runtime-main.js": "/socialHouse/static/js/runtime-main.71ed1f79.js",
+    "runtime-main.js.map": "/socialHouse/static/js/runtime-main.71ed1f79.js.map",
+    "static/js/2.310ea7d6.chunk.js": "/socialHouse/static/js/2.310ea7d6.chunk.js",
+    "static/js/2.310ea7d6.chunk.js.map": "/socialHouse/static/js/2.310ea7d6.chunk.js.map",
+    "static/js/3.c74341de.chunk.js": "/socialHouse/static/js/3.c74341de.chunk.js",
+    "static/js/3.c74341de.chunk.js.map": "/socialHouse/static/js/3.c74341de.chunk.js.map",
+    "index.html": "/socialHouse/index.html",
+    "static/css/main.36b9f9f8.chunk.css.map": "/socialHouse/static/css/main.36b9f9f8.chunk.css.map",
+    "static/js/2.310ea7d6.chunk.js.LICENSE.txt": "/socialHouse/static/js/2.310ea7d6.chunk.js.LICENSE.txt",
+    "static/media/Header.module.scss": "/socialHouse/static/media/hero.be30fc18.jpg",
+    "static/media/logo.6ce24c58.svg": "/socialHouse/static/media/logo.6ce24c58.svg",
+    "static/media/logo.e70347a6.svg": "/socialHouse/static/media/logo.e70347a6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71ed1f79.js",
+    "static/js/2.310ea7d6.chunk.js",
+    "static/css/main.36b9f9f8.chunk.css",
+    "static/js/main.53453ba2.chunk.js"
+  ]
+}
