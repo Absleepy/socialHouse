@@ -1,15 +1,12 @@
-import React from 'react'
-import Footer from '../../Components/CommonComponents/Footer/Footer'
-import Header from '../../Components/CommonComponents/Header/Header'
-import Form from '../../Components/PageComponents/Home/Form/Form'
-
- const Home = () => {
-    return (
-        <div className="wrapper">
-            <Header />
-            <Form />
-            <Footer />
-        </div>
-    )
-}
+import React from "react";
+import Hero from "../../Components/CommonComponents/Hero/Hero";
+import Form from "../../Components/PageComponents/Home/Form/Form";
+import Header from "../../Components/CommonComponents/Header/Header";
+const Home = () => {
+  return (
+    <>
+      <Hero /> <Form />
+    </>
+  );
+};
 export default Home;

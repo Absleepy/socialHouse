@@ -1,0 +1,36 @@
+.container {
+  padding-bottom: 140px;
+  .icon {
+    position: relative;
+    &::after {
+      content: "";
+      height: 100px;
+      width: 2px;
+      background-color: #63656f;
+      display: inline-block;
+      position: absolute;
+      top: 108%;
+      left: 50%;
+    }
+  }
+  .icon + p {
+    line-height: 1.4;
+    font-size: 1.2rem;
+  }
+  .img {
+    position: absolute;
+    /* min-height: 250px; */
+    top: 0;
+    /* height: 100%; */
+    top: -117%;
+  }
+}
+
+@media (max-width: 768px) {
+  .img {
+    display: none;
+  }
+  .icon + p {
+    display: flex;
+  }
+}
