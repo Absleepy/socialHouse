@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/socials-house/static/css/main.0e753ee3.chunk.css",
-    "main.js": "/socials-house/static/js/main.53453ba2.chunk.js",
-    "main.js.map": "/socials-house/static/js/main.53453ba2.chunk.js.map",
-    "runtime-main.js": "/socials-house/static/js/runtime-main.92e3aee6.js",
-    "runtime-main.js.map": "/socials-house/static/js/runtime-main.92e3aee6.js.map",
-    "static/js/2.310ea7d6.chunk.js": "/socials-house/static/js/2.310ea7d6.chunk.js",
-    "static/js/2.310ea7d6.chunk.js.map": "/socials-house/static/js/2.310ea7d6.chunk.js.map",
-    "static/js/3.c74341de.chunk.js": "/socials-house/static/js/3.c74341de.chunk.js",
-    "static/js/3.c74341de.chunk.js.map": "/socials-house/static/js/3.c74341de.chunk.js.map",
+    "main.css": "/socials-house/static/css/main.e5d07cce.chunk.css",
+    "main.js": "/socials-house/static/js/main.a05a8b78.chunk.js",
+    "main.js.map": "/socials-house/static/js/main.a05a8b78.chunk.js.map",
+    "runtime-main.js": "/socials-house/static/js/runtime-main.46ac786a.js",
+    "runtime-main.js.map": "/socials-house/static/js/runtime-main.46ac786a.js.map",
+    "static/js/2.3eea9cae.chunk.js": "/socials-house/static/js/2.3eea9cae.chunk.js",
+    "static/js/2.3eea9cae.chunk.js.map": "/socials-house/static/js/2.3eea9cae.chunk.js.map",
+    "static/js/3.f6854ba7.chunk.js": "/socials-house/static/js/3.f6854ba7.chunk.js",
+    "static/js/3.f6854ba7.chunk.js.map": "/socials-house/static/js/3.f6854ba7.chunk.js.map",
     "index.html": "/socials-house/index.html",
-    "static/css/main.0e753ee3.chunk.css.map": "/socials-house/static/css/main.0e753ee3.chunk.css.map",
-    "static/js/2.310ea7d6.chunk.js.LICENSE.txt": "/socials-house/static/js/2.310ea7d6.chunk.js.LICENSE.txt",
-    "static/media/Header.module.scss": "/socials-house/static/media/hero.be30fc18.jpg",
-    "static/media/logo.6ce24c58.svg": "/socials-house/static/media/logo.6ce24c58.svg",
-    "static/media/logo.e70347a6.svg": "/socials-house/static/media/logo.e70347a6.svg"
+    "static/css/main.e5d07cce.chunk.css.map": "/socials-house/static/css/main.e5d07cce.chunk.css.map",
+    "static/js/2.3eea9cae.chunk.js.LICENSE.txt": "/socials-house/static/js/2.3eea9cae.chunk.js.LICENSE.txt",
+    "static/media/Hero.module.scss": "/socials-house/static/media/hero.be30fc18.jpg",
+    "static/media/building.da4e2829.png": "/socials-house/static/media/building.da4e2829.png",
+    "static/media/logo.e70347a6.svg": "/socials-house/static/media/logo.e70347a6.svg",
+    "static/media/vipClub.9a3a7ff4.png": "/socials-house/static/media/vipClub.9a3a7ff4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.92e3aee6.js",
-    "static/js/2.310ea7d6.chunk.js",
-    "static/css/main.0e753ee3.chunk.css",
-    "static/js/main.53453ba2.chunk.js"
+    "static/js/runtime-main.46ac786a.js",
+    "static/js/2.3eea9cae.chunk.js",
+    "static/css/main.e5d07cce.chunk.css",
+    "static/js/main.a05a8b78.chunk.js"
   ]
 }
