@@ -10,6 +10,11 @@ body {
 :root {
   --blue-color: #2e313e;
 }
+
+.page_renderer {
+  min-height: 60vh;
+}
+
 .bg-blue {
   background-color: var(--blue-color);
 }
