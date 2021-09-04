@@ -34,25 +34,22 @@ const Header = () => {
         <nav className={styles.navbar}>
           <ul className={styles.navLinks}>
             <li onClick={() => setOpen(false)} className={styles.navLink}>
+              <Link to="/">HOME</Link>
+            </li>
+            <li onClick={() => setOpen(false)} className={styles.navLink}>
               <Link to="/about">ABOUT US</Link>
-            </li>
-            <li onClick={() => setOpen(false)} className={styles.navLink}>
-              <Link to="/">RESOURSES</Link>
-            </li>
-            <li onClick={() => setOpen(false)} className={styles.navLink}>
-              <Link to="/">OPPORTUNITIES</Link>
-            </li>
-            <li onClick={() => setOpen(false)} className={styles.navLink}>
-              <Link to="/">SOCIAL CALENDAR</Link>
             </li>
             <li onClick={() => setOpen(false)} className={styles.navLink}>
               <Link to="/">MEMBERS ONLY CLUB</Link>
             </li>
             <li onClick={() => setOpen(false)} className={styles.navLink}>
-              <Link to="/">VIP CLUB</Link>
+              <Link to="/">OPPORTUNITIES</Link>
             </li>
             <li onClick={() => setOpen(false)} className={styles.navLink}>
-              <Link to="/">VIP CLUB PRICING</Link>
+              <Link to="/contact-us">CONTACT US</Link>
+            </li>
+            <li onClick={() => setOpen(false)} className={styles.navLink}>
+              <Link to="/">LOGIN</Link>
             </li>
           </ul>
         </nav>
