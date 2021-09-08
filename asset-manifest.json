@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/socials-house/static/css/main.f6cc462f.chunk.css",
-    "main.js": "/socials-house/static/js/main.7d3f2543.chunk.js",
-    "main.js.map": "/socials-house/static/js/main.7d3f2543.chunk.js.map",
-    "runtime-main.js": "/socials-house/static/js/runtime-main.b049a593.js",
-    "runtime-main.js.map": "/socials-house/static/js/runtime-main.b049a593.js.map",
-    "static/js/2.96507678.chunk.js": "/socials-house/static/js/2.96507678.chunk.js",
-    "static/js/2.96507678.chunk.js.map": "/socials-house/static/js/2.96507678.chunk.js.map",
-    "static/js/3.d7979143.chunk.js": "/socials-house/static/js/3.d7979143.chunk.js",
-    "static/js/3.d7979143.chunk.js.map": "/socials-house/static/js/3.d7979143.chunk.js.map",
+    "main.css": "/socials-house/static/css/main.3b4749c2.chunk.css",
+    "main.js": "/socials-house/static/js/main.b379dcca.chunk.js",
+    "main.js.map": "/socials-house/static/js/main.b379dcca.chunk.js.map",
+    "runtime-main.js": "/socials-house/static/js/runtime-main.95e18497.js",
+    "runtime-main.js.map": "/socials-house/static/js/runtime-main.95e18497.js.map",
+    "static/js/2.ff2041fe.chunk.js": "/socials-house/static/js/2.ff2041fe.chunk.js",
+    "static/js/2.ff2041fe.chunk.js.map": "/socials-house/static/js/2.ff2041fe.chunk.js.map",
+    "static/js/3.02532b9e.chunk.js": "/socials-house/static/js/3.02532b9e.chunk.js",
+    "static/js/3.02532b9e.chunk.js.map": "/socials-house/static/js/3.02532b9e.chunk.js.map",
     "index.html": "/socials-house/index.html",
-    "static/css/main.f6cc462f.chunk.css.map": "/socials-house/static/css/main.f6cc462f.chunk.css.map",
-    "static/js/2.96507678.chunk.js.LICENSE.txt": "/socials-house/static/js/2.96507678.chunk.js.LICENSE.txt",
-    "static/media/Hero.module.scss": "/socials-house/static/media/hero.be30fc18.jpg",
+    "static/css/main.3b4749c2.chunk.css.map": "/socials-house/static/css/main.3b4749c2.chunk.css.map",
+    "static/js/2.ff2041fe.chunk.js.LICENSE.txt": "/socials-house/static/js/2.ff2041fe.chunk.js.LICENSE.txt",
+    "static/media/Hero.module.scss": "/socials-house/static/media/privacyPolicy.06e3eb2d.jpg",
     "static/media/building.da4e2829.png": "/socials-house/static/media/building.da4e2829.png",
     "static/media/logo.e70347a6.svg": "/socials-house/static/media/logo.e70347a6.svg",
     "static/media/vipClub.9a3a7ff4.png": "/socials-house/static/media/vipClub.9a3a7ff4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b049a593.js",
-    "static/js/2.96507678.chunk.js",
-    "static/css/main.f6cc462f.chunk.css",
-    "static/js/main.7d3f2543.chunk.js"
+    "static/js/runtime-main.95e18497.js",
+    "static/js/2.ff2041fe.chunk.js",
+    "static/css/main.3b4749c2.chunk.css",
+    "static/js/main.b379dcca.chunk.js"
   ]
 }
