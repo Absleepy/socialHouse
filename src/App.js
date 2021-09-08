@@ -5,6 +5,7 @@ import { HashRouter as Router, Switch, Route, Link } from "react-router-dom";
 import About from "./Pages/About/Index";
 import Header from "./Components/CommonComponents/Header/Header";
 import Contact from "./Pages/Contact/Index";
+import PrivacyPolicy from "./Pages/PrivacyPolicy/Index";
 function App() {
   return (
     <div className="wrapper">
@@ -20,6 +21,9 @@ function App() {
             </Route>
             <Route path="/contact-us" exact>
               <Contact />
+            </Route>
+            <Route path="/privacy-policy" exact>
+              <PrivacyPolicy />
             </Route>
           </Switch>
         </div>

@@ -9,6 +9,7 @@ body {
 
 :root {
   --blue-color: #2e313e;
+  --color-grey: #ddd;
 }
 
 .page_renderer {
@@ -45,6 +46,9 @@ input[type="number"] {
 }
 .flex-wrap {
   flex-wrap: wrap;
+}
+.color-grey {
+  color: var(--color-grey);
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
