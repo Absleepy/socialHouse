@@ -6,6 +6,7 @@ import About from "./Pages/About/Index";
 import Header from "./Components/CommonComponents/Header/Header";
 import Contact from "./Pages/Contact/Index";
 import PrivacyPolicy from "./Pages/PrivacyPolicy/Index";
+import Opportunities from "./Pages/Opportunities/Opportunities";
 function App() {
   return (
     <div className="wrapper">
@@ -18,6 +19,9 @@ function App() {
             </Route>
             <Route path="/about" exact>
               <About />
+            </Route>
+            <Route path="/opportunities" exact>
+              <Opportunities />
             </Route>
             <Route path="/contact-us" exact>
               <Contact />
