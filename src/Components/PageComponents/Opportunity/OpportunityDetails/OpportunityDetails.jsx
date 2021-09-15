@@ -55,8 +55,8 @@ const OpportunityDetails = () => {
           nisi, proin.
         </p>
       </div>
-      <div className="d-flex align-items-center justify-content-between">
-        <div className="d-flex align-items-center ">
+      <div className="d-flex align-items-center justify-content-between flex-wrap-mobile mb-4 justify-center-mobile">
+        <div className="d-flex align-items-center">
           <p className="greyText">Share</p>
           <ul className="d-flex align-items-center">
             <li className="m-2">
