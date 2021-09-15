@@ -27,6 +27,9 @@ body {
 input[type="number"] {
   -moz-appearance: textfield;
 }
+.greyText {
+  color: #9e9e9e;
+}
 
 .input-type-number::-webkit-outer-spin-button,
 .input-type-number::-webkit-inner-spin-button {
