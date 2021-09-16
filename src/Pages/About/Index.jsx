@@ -1,13 +1,13 @@
 import React from "react";
 import Family from "../../Components/PageComponents/About/Family/Family";
-import Hero from "../../Components/PageComponents/About/Hero/Hero";
+import Hero from "../../Components/CommonComponents/Hero/page-hero/Hero";
 import Mission from "../../Components/PageComponents/About/Mission/Mission";
 import VIPClub from "../../Components/PageComponents/About/VIPClub/VIPClub";
-
+import img from "../../assets/images/about.png";
 const About = () => {
   return (
     <div className="wrapper">
-      <Hero />
+      <Hero img={img} title="ABOUT US" />
       <Mission />
       <Family />
       <VIPClub />

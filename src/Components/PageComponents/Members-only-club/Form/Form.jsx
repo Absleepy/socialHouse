@@ -1,6 +1,7 @@
 import React from "react";
 import styles from "./Form.module.scss";
 const Form = () => {
+  const [checkbox, setcheckbox] = React.useState(true);
   return (
     <div className={styles.container}>
       <div className={styles.content}>
@@ -71,6 +72,8 @@ const Form = () => {
               className={styles.check}
               name="  "
               id="check"
+              onChange={() => setcheckbox(!checkbox)}
+              checked={checkbox}
             />
             <label
               htmlFor="check"

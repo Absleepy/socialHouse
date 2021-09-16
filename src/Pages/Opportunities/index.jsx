@@ -1,9 +1,11 @@
 import React from "react";
-import Hero from "../../Components/PageComponents/Opportunities/Hero/Hero";
-import Card from "../../Components/PageComponents/Opportunities/Card/Card";
+import Hero from "../../Components/CommonComponents/Hero/page-hero/Hero";
+import Card from "../../Components/CommonComponents/Cards/card-with-bottom-info/Card/Card";
 import image1 from "../../assets/images/card1.png";
 import image2 from "../../assets/images/card2.png";
 import image3 from "../../assets/images/card3.png";
+import heroImg from "../../assets/images/opportunities.png";
+
 import { Link } from "react-router-dom";
 const randomData = [
   {
@@ -74,7 +76,7 @@ const randomData = [
 const Opportunities = () => {
   return (
     <div className="bg-blue">
-      <Hero />
+      <Hero img={heroImg} title="The Opportunities" />
       <div className="container">
         <div className="row">
           {randomData.map((data, index) => (

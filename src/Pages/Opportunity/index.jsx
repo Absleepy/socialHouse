@@ -1,12 +1,13 @@
 import React from "react";
-import Hero from "../../Components/PageComponents/Opportunities/Hero/Hero";
-import Card from "../../Components/PageComponents/Opportunities/Card/Card";
+import Hero from "../../Components/CommonComponents/Hero/page-hero/Hero";
+import Card from "../../Components/CommonComponents/Cards/card-with-bottom-info/Card/Card";
 import image1 from "../../assets/images/card1.png";
 import image2 from "../../assets/images/card2.png";
 import image3 from "../../assets/images/card3.png";
 import { Link } from "react-router-dom";
 import * as icons from "../../Components/CommonComponents/Icons/Icons";
 import OpportunityDetails from "../../Components/PageComponents/Opportunity/OpportunityDetails/OpportunityDetails";
+import img from "../../assets/images/opportunities.png";
 const randomData = [
   {
     name: "RESOURCES",
@@ -33,7 +34,7 @@ const randomData = [
 const Opportunity = () => {
   return (
     <div className="bg-blue">
-      <Hero />
+      <Hero img={img} title="The Opportunities" />
       <div className="container">
         <div className="row">
           <div className="d-flex align-items-center justify-content-between">

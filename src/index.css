@@ -94,3 +94,6 @@ a:focus {
     justify-content: center !important;
   }
 }
+input[type="checkbox"] {
+  accent-color: black;
+}

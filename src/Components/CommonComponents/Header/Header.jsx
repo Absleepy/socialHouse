@@ -40,7 +40,7 @@ const Header = () => {
               <Link to="/about">ABOUT US</Link>
             </li>
             <li onClick={() => setOpen(false)} className={styles.navLink}>
-              <Link to="/">MEMBERS ONLY CLUB</Link>
+              <Link to="/members-only-club">MEMBERS ONLY CLUB</Link>
             </li>
             <li onClick={() => setOpen(false)} className={styles.navLink}>
               <Link to="/opportunities">OPPORTUNITIES</Link>
